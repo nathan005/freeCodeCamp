@@ -14,15 +14,9 @@ Files in /server/utils
 |file|description|
 |---|---|
 | user-stats.js | This is where the streak is compiled|
-| date-utils.js |    Time between 2 dates is set - timezone is set to be 'UTC'       
-this is one of a few places timezone is set to 'UTC'|
-
-
-
-
-
- map.js - sets the status of the "map" nav item
- publicUserProps.js - show jSON property for streaks
+| date-utils.js |    Time between 2 dates is set - timezone is set to be 'UTC', this is one of a few places timezone is set to 'UTC'|
+| map.js | sets the status of the "map" nav item |
+| publicUserProps.js | show jSON property for streaks |
 
  TESTS
  date-utils.test.js - a test to see if distance between 2 dates is being calculated correctly
