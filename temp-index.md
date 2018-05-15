@@ -1,4 +1,5 @@
-#File Index
+# File Index
+
 This file is an index to help me find where all the calls for streak are comming from
 
 freeCodeCamp/common/app/routes/Profile/components/HeatMap.jsx
